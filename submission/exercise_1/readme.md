@@ -1,7 +1,7 @@
 Exercise One
 
 1.Setup development environment<br/>
-2.Fork & clone this project<br/><br/>
+2.Fork & clone this project<br/>
 3.Update author in Cargo.toml file<br/>
 4.Run a single node testnet and send a transaction<br/>
 
@@ -16,7 +16,7 @@ Exercise One
 
 2. https://github.com/GitLeandroHub/exercise-1-and-2
 
-3.Git commit update authors:
+3.Git commit update authors:<br/>
 3.1 https://github.com/GitLeandroHub/exercise-1-and-2/tree/master/node<br/>
 3.2 https://github.com/GitLeandroHub/exercise-1-and-2/tree/master/pallets/template<br/>
 3.3 https://github.com/GitLeandroHub/exercise-1-and-2/tree/master/runtime<br/>
